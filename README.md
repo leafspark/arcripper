@@ -41,6 +41,8 @@ Go to Info.plist
 
 Delete any value starting with "NS"
 
+Zip Payload folder app and rename <AppName>.IPA
+
 Sideload via TrollStore and verify app runs
 
 Profit!
